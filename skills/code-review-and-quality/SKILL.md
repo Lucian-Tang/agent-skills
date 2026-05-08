@@ -345,3 +345,9 @@ After review is complete:
 - [ ] Tests pass
 - [ ] Build succeeds
 - [ ] The verification story is documented (what changed, how it was verified)
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步

@@ -298,3 +298,9 @@ After fixing a bug:
 - [ ] All existing tests pass
 - [ ] Build succeeds
 - [ ] The original bug scenario is verified end-to-end
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步

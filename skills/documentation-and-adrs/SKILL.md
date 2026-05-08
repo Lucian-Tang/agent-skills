@@ -276,3 +276,9 @@ After documenting:
 - [ ] Known gotchas are documented inline where they matter
 - [ ] No commented-out code remains
 - [ ] Rules files (CLAUDE.md etc.) are current and accurate
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步

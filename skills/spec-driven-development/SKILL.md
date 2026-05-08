@@ -7,7 +7,7 @@ description: Creates specs before coding. Use when starting a new project, featu
 
 ## Overview
 
-Write a structured specification before writing any code. The spec is the shared source of truth between you and the human engineer — it defines what we're building, why, and how we'll know it's done. Code without a spec is guessing.
+Write a structured specification before writing any code. The spec is the shared source of truth between you and the Lucia — it defines what we're building, why, and how we'll know it's done. Code without a spec is guessing.
 
 ## When to Use
 
@@ -198,3 +198,9 @@ Before proceeding to implementation, confirm:
 - [ ] Success criteria are specific and testable
 - [ ] Boundaries (Always/Ask First/Never) are defined
 - [ ] The spec is saved to a file in the repository
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步

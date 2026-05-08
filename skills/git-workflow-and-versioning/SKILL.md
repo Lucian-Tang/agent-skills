@@ -298,3 +298,9 @@ For every commit:
 - [ ] No secrets in the diff
 - [ ] No formatting-only changes mixed with behavior changes
 - [ ] `.gitignore` covers standard exclusions
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
+
+### Feishu Notification
+完成后：1) 创建飞书文档到 Lucia 日报汇总文件夹 2) 本地存档 3) 群内 @Lucia 同步
